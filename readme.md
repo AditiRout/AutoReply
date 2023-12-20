@@ -3,12 +3,12 @@
 This Node.js application enables you to automatically monitor and reply to unread emails in your Gmail every 2 minutes.
 
 # Libraries and Technologies used:
-  Node.js
-  node-cron
-  googleapis
-  fs
-  readline
-  OAuth 2.0
+  Node.js,
+  node-cron,
+  googleapis,
+  fs,
+  readline,
+  OAuth 2.0,
   JSON
 
 ## Steps to be followed:
