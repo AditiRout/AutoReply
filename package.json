@@ -1,7 +1,7 @@
 {
   "name": "AutoReply",
   "version": "1.0.0",
-  "description": "this is a small nodejs app which uses google apis to reply to new mails automatically",
+  "description": "Automatic email replier",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
