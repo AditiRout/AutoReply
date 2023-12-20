@@ -1,6 +1,7 @@
 # AutoReply
 
 This Node.js application enables you to automatically monitor and reply to unread emails in your Gmail every 2 minutes.
+(For testing,we are checking every 1 minute)
 
 # Libraries and Technologies used:
   Node.js,
